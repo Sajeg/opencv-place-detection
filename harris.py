@@ -1,3 +1,4 @@
+# This Code is based on this: https://docs.opencv.org/3.4/dc/d0d/tutorial_py_features_harris.html
 import numpy as np
 import cv2 as cv
 
